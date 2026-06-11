@@ -1,0 +1,20 @@
+# Build
+target/
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Dados persistidos
+data/
+
+# Maven local
+tools/
+
+# Sistema
+.DS_Store
+Thumbs.db
